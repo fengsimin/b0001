@@ -1,0 +1,21 @@
+a.active {
+	color: #cf9367;
+}
+
+a:hover {
+    color: #cf9367;
+}
+
+.fw-header {
+    background: #64728C;
+}
+
+
+@media only screen and (max-width: 960px) {
+	.fw-index .blog .year-menu {
+	    background: #b19c3d;
+	}
+	.fw-index .blog .year ul {
+		background: #b19c3d;
+	}
+}
